@@ -1,0 +1,53 @@
+body {
+    color: black;
+    font-family: Arial;
+    background-image: linear-gradient(to left,#193C40, #214001)
+}
+
+h1, h2 {
+    font-weight: bold;
+    color:(black);
+    background-image: radial-gradient(darkblue, blue,white);
+}
+h3{
+    color: #A62B1F;
+    text-shadow: 2px 2px 5px black;
+}
+
+h4{
+    color:rgba(216, 105, 65, 1);
+    
+}
+
+p{
+    color:rgb(175, 166, 166);
+    
+}
+.centralizado {
+    text-align: center;
+}
+
+p.direita {
+    text-align: right;
+}
+
+/* Color Theme Swatches in Hex */
+.Verde-1-hex { color: #193C40; }
+.Verde-2-hex { color: #2E5902; }
+.Verde-3-hex { color: #214001; }
+.Verde-4-hex { color: #D96941; }
+.Verde-5-hex { color: #A62B1F; }
+
+/* Color Theme Swatches in RGBA */
+.Verde-1-rgba { color: rgba(24, 59, 63, 1); }
+.Verde-2-rgba { color: rgba(45, 89, 1, 1); }
+.Verde-3-rgba { color: rgba(32, 63, 1, 1); }
+.Verde-4-rgba { color: rgba(216, 105, 65, 1); }
+.Verde-5-rgba { color: rgba(165, 42, 31, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Verde-1-hsla { color: hsla(185, 43, 17, 1); }
+.Verde-2-hsla { color: hsla(90, 96, 17, 1); }
+.Verde-3-hsla { color: hsla(90, 96, 12, 1); }
+.Verde-4-hsla { color: hsla(16, 66, 55, 1); }
+.Verde-5-hsla { color: hsla(5, 68, 38, 1); }

@@ -1,0 +1,23 @@
+body {
+    color: blue;
+}
+
+h1 {
+    font-family: arial;
+}
+
+h1, h2 {
+    color: red;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+p.direita {
+    text-align: right;
+}
+
+ul {
+    color: green;
+}

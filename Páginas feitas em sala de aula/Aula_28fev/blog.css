@@ -1,0 +1,18 @@
+body {
+
+    background-image: linear-gradient(to right, #404040, #8C8C8C);
+    font-family: Arial;
+}
+
+
+#titulo {
+    color: #127369;
+}
+
+.subtitulo {
+    color: #8AA6A3;
+}
+
+p {
+    color: white;;
+}
