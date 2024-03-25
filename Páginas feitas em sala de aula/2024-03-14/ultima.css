@@ -1,0 +1,6 @@
+body {
+    background-image: url("imagens/fundo_lennon.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
