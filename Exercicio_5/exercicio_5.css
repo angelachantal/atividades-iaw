@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    font-family: Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #f7d7bd, #EADFDB);
+    font-family: 'Open Sans';
+    font-size: 1rem;
+    text-align: left;
+}
+
+h1 {
+    margin: 0rem;
+    background-color: #D8C2B5;
+    color: black;
+    text-align: center;
+    height: 3vh;
+    padding-top: 2rem;
+    padding-bottom: 2.5rem;
+}
+
+.menu1 {
+    list-style-type: none;
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: black;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.menu2 {
+    display: inline;
+    padding: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: black;
+    text-align: center;
+    font-size: 1rem;
+}
+
+h2 {
+    /*padding: 1%;*/
+    text-align: left;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+}
+
+.lista {
+    padding-left: 3rem;
+    line-height: 1.5;
+}
+
+.p_velocidade {
+    list-style-image: url(imagens/velocidade-maxima-permitida.jpg);
+    list-style-position: inside;
+    line-height: 1.5;
+
+}
+
+.p_sentido {
+    list-style-image: url(imagens/sentido-proibido.jpg);
+    list-style-position: inside;
+    line-height: 1.5;
+}
+
+.p_virar {
+    list-style-image: url(imagens/proibido-virar.jpg);
+    list-style-position: inside;
+    line-height: 1.5;
+}
+
+.p_estacionar {
+    list-style-image: url(imagens/proibido-estacionar.jpg);
+    list-style-position: inside;
+    line-height: 1.5;
+}
+
+.p_pare {
+    list-style-image: url(imagens/parada-obrigatoria.jpg);
+    list-style-position: inside;
+    line-height: 1.5;
+}
+
+.rodape {
+    text-align: center;
+    background-color: #D8C2B5;
+    color: rgb(15, 15, 15);
+    height: 4vh;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    font-size: 1rem;
+}
