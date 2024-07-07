@@ -1,0 +1,33 @@
+table {
+    border: 1px solid black;
+    width : 60vh;
+    height: 60vh;
+}
+
+.branco_peça{
+    background-color: white;
+    background-image: url(imagens/preto.png);
+    background-repeat:  no-repeat;
+    background-position: center;
+}
+
+.preto_peça{
+    background-color: black;
+    background-image: url(imagens/branco.png);
+    background-repeat:  no-repeat;
+    background-position: center;
+}
+
+.branco{
+    background-color: white;
+}
+
+.preto{
+    background-color: black;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+
