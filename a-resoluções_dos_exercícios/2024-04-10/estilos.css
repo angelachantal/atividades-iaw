@@ -1,0 +1,65 @@
+table {
+    border-collapse: collapse;
+}
+
+
+td {
+    margin: 0;
+    padding: 0.3rem;
+}
+
+
+table td, table th{
+    border: 1px solid gray;
+}
+
+.unidades {
+    font-weight: bold;
+    text-align: center;
+}
+
+.tabela-alinhamentos {
+    width: 40%;
+    height: 300px;
+}
+
+.alinhamento-topo {
+    vertical-align: top;
+}
+ 
+.alinhamento-fundo {
+    vertical-align: bottom;
+}
+
+.tabuleiro td {
+    width: 2rem;
+    height: 2rem;
+}
+
+.celula-preta {
+    background-color: black;
+}
+
+.celula-branca {
+    background-color: white;
+}
+
+.peca-cinza, .peca-branca {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 30px 30px;
+}
+
+.peca-cinza {
+    background-image: url('imagens/peca-cinza.png');
+    
+}
+
+.peca-branca {
+    background-image: url('imagens/peca-branca.png');
+    
+}
+
+.numero {
+    text-align: center;
+}
